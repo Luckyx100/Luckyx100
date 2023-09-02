@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luckyx100
 - 👀 I’m interested in Programming and Full Stack Development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on in Open Source Projects
+- 💞️ I’m looking forward to collaborate on in Open Source Projects
 
 
 <!---
